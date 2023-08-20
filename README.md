@@ -1,5 +1,5 @@
 ﻿# FoodMuch_responsive
-[LIVE NOW]:(https:manishfoodweb.ccbp.tech)
+[GitHub Pages:](https://pages.github.com/)
 
 
 
