@@ -1,6 +1,7 @@
 ﻿# FoodMuch_responsive
+#LIVE: manishfoodweb.ccbp.tech
 
- LIVE: manishfoodweb.ccbp.tech
+
 
 
 Food Munch is a responsive website designed to showcase a variety of food items, their detailed information, and special offers. The website is built using a mobile-first approach, ensuring that it looks and functions seamlessly on both desktop and mobile devices. It utilizes HTML structure elements such as li, header, article, and footer, along with different Bootstrap components and classes for responsiveness.
